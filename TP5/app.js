@@ -6,7 +6,7 @@ let multiplicacion= numero1*numero2
 let division = numero1 / numero2 
 
 
-console.log(suma)
-console.log(resta)
-console.log(multiplicacion)
-console.log(division)
+console.log("El resultado de la suma es:" +suma )
+console.log("El resultado de la resta es:"+resta)
+console.log("El resultado de la multiplicacion es:"+multiplicacion )
+console.log("El resultado de la division es:"+division)
