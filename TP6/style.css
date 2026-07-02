@@ -1,7 +1,7 @@
 body{
     background-color: palevioletred;
     color: black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
     display:flex;
     flex-direction:column;
     justify-content:column;
@@ -26,6 +26,7 @@ button{
     border: none;
     border-radius: 16px;
     padding: 5px;
+    margin-bottom: 20px;
    
 }
 button:hover{
