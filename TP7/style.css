@@ -1,0 +1,12 @@
+button{
+   background-color: rgb(65, 65, 159); 
+   color: black;
+   border-radius: 15px;
+   padding: 5px;
+   margin-bottom:20px ;
+}
+
+p{
+    font-size: 24px;
+    color: rgb(8, 2, 14);  
+}
